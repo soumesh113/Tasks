@@ -1,0 +1,21 @@
+.heading{
+    font-family: 'Oswald', 'Cardo';
+    text-align: center;
+    
+}
+.label{
+    font-family: 'Oswald', 'Cardo';
+    font-size: 1rem;
+    margin-top:1rem ;
+    margin-bottom: 1rem;
+}
+.btn{
+    font-family: 'Oswald', 'Cardo';
+    padding: 0.5rem;
+    background-color: blue;
+    border: none;
+    font-size: 1rem;
+    color:white;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}
